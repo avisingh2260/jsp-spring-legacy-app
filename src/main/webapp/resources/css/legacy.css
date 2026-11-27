@@ -1,0 +1,13 @@
+body { font-family: Arial, sans-serif; background: #f4f4f4; color: #222; margin: 0; padding: 24px; }
+.container { max-width: 960px; margin: 0 auto; background: #fff; padding: 24px; border: 1px solid #ddd; }
+.toolbar { display: flex; gap: 8px; margin-bottom: 16px; }
+table { width: 100%; border-collapse: collapse; }
+th, td { border-bottom: 1px solid #e0e0e0; padding: 10px 8px; text-align: left; }
+.flash { background: #e6f4ea; border: 1px solid #1e8e3e; padding: 10px; margin-bottom: 16px; }
+.error, .error-box { color: #b3261e; font-size: 13px; }
+.badge { padding: 2px 6px; font-size: 12px; border-radius: 3px; background: #eee; }
+.badge-overdue { background: #fce8e6; color: #b3261e; font-weight: bold; margin-left: 4px; }
+.row-overdue { background: #fff8f7; }
+.muted { color: #777; font-size: 12px; }
+.field { margin-bottom: 12px; }
+.field label { display: block; font-weight: bold; margin-bottom: 4px; }
